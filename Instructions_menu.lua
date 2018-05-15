@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------------------
 --
 -- main_menu.lua
--- Created by: Tristan Royer
+-- Created by: Desmy MJ
 -- Date: 5th May 2018
 -- Description: This is the main menu, displaying the credits, instructions & play buttons.
 -----------------------------------------------------------------------------------------
